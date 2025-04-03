@@ -13,7 +13,7 @@ class UInputAction;
 class USpringArmComponent;
 class UCameraComponent;
 
-UCLASS(Abstract, NotBlueprintType)
+UCLASS()
 class ACharacterBase : public ACharacter
 {
 	GENERATED_BODY()
